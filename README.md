@@ -8,7 +8,7 @@ $ make
 which makes use of `pdflatex`.  
 
 # Organization of the latex files    
-* files inside the `Front` folder controls what goes on the cover of your thesis
+* files inside the `Front` folder control what goes on the cover of your thesis
 * `ucdthesis.tex` - holds the main skeleton of the thesis.  
 * Other written components of the thesis files are in different folders. 
 * `style.tex` - formats the thesis latex and include differnet package dependencies
