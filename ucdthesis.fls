@@ -219,6 +219,8 @@ INPUT Appendix1/appendix1.tex
 OUTPUT Appendix2/appendix2.aux
 INPUT Appendix2/appendix2.tex
 INPUT Appendix2/appendix2.tex
+INPUT ucdthesis.bbl
+INPUT ucdthesis.bbl
 INPUT ucdthesis.aux
 INPUT Front/title.aux
 INPUT Front/title.aux
